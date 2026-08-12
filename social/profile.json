@@ -1,9 +1,9 @@
 {
   "publicKey": "ed25519:e4bd928a632dbd24fde1bcaa5502c34b72f868820bd92737e98da42aa9806c87",
   "handle": "zac.social",
-  "repoURL": "C:\\Users\\gargb\\OneDrive\\Desktop\\ELEC4712\\Git-Decentralised\\ELEC4712_Decentralised_Blog\\remotes\\zac-social.git",
+  "repoURL": "https://github.com/gargster/zac-social.git",
   "displayName": "Zac",
   "bio": "Athlete",
   "created": "2026-08-12T01:55:13.908988Z",
-  "signature": "TSC3Io4P/ylLn8XaW9Ema1PDtlT+q/TEw1+wuOtvxNLQvZ4U9l9UG63mhPiFjw3VHbXfpHMbCAYvgckK6/BFAA=="
+  "signature": "qKQAbFzwOB59WG0g5bjJ9nRndADe8rl3wfWf8XX9rizRvcEpQ+T9Gt588JmNOAJOlbrbcqS0AG5QuO6TeOatBA=="
 }
