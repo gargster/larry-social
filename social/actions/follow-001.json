@@ -1,0 +1,8 @@
+{
+  "id": "follow-001",
+  "type": "follow",
+  "author": "ed25519:e4bd928a632dbd24fde1bcaa5502c34b72f868820bd92737e98da42aa9806c87",
+  "created": "2026-08-12T02:12:49.730502Z",
+  "target": "ed25519:afeb396e58f9874e64d74104dee885ead0a5e70c7ebb01abc4975ffd30791ed5",
+  "signature": "qcQu4CgzlGCxK4l0qjpR+zjjKStpJdza9Vay3hnoujN6ZkrcomZx1swW1xNLqBAS5ypOwNTHDtjHDkkzDaC/Dg=="
+}
