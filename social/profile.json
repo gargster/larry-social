@@ -1,9 +1,9 @@
 {
   "publicKey": "ed25519:e4bd928a632dbd24fde1bcaa5502c34b72f868820bd92737e98da42aa9806c87",
   "handle": "zac.social",
-  "repoURL": "https://github.com/gargster/zac-social.git",
+  "repoURL": "https://github.com/gargster/larry-social.git",
   "displayName": "Zac",
   "bio": "Athlete",
   "created": "2026-08-12T01:55:13.908988Z",
-  "signature": "qKQAbFzwOB59WG0g5bjJ9nRndADe8rl3wfWf8XX9rizRvcEpQ+T9Gt588JmNOAJOlbrbcqS0AG5QuO6TeOatBA=="
+  "signature": "WTfquKrLGJlLcCg3jpg5KjjY8JPXeX1uZAE//vbZOH2jQMwzE8ps73+dJPl6PZMpgqqxSnX3aJPRR+NctN9tCg=="
 }
